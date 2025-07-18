@@ -19,6 +19,6 @@ DiaryChain 是一款以 Rust 編寫的命令列工具，專為加密日記、不
 ## 🧰 安裝方式
 
 ```bash
-git clone https://github.com/yourname/diary_chain.git
+git clone https://github.com/Winturtle/Diary_Chain.git
 cd diary_chain
 cargo build --release
