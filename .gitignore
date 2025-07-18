@@ -1,6 +1,7 @@
 # Rust
 /target/
 /output/
+/diary/
 **/*.rs.bk
 Cargo.lock
 *.log
