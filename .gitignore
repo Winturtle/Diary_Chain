@@ -1,0 +1,7 @@
+# Rust
+/target/
+/output/
+**/*.rs.bk
+Cargo.lock
+*.log
+*.tmp
